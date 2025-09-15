@@ -2,7 +2,7 @@
 ask_ai_alco_why.exe: Analiza GUZ (GUI)
 
 to prosta aplikacja stworzona w celu generowania spersonalizowanych promptów dla modeli sztucznej inteligencji.
-Jej celem jest pomoc w autorefleksji nad problemami związanymi z Grupami Ucieczki 
+   Jej celem jest pomoc w autorefleksji nad problemami związanymi z Grupami Ucieczki 
 w Uzależnienie (GUZ) poprzez analizę konkretnych sytuacji, zwanych w aplikacji "FALĄ".
 
 Aplikacja działa w dwóch etapach:
