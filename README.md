@@ -20,11 +20,14 @@ Aplikacja oferuje pięć predefiniowanych protokołów analizy, z których każd
 
     R – Relacje: Analiza roli, granic, sposobu komunikacji oraz bilansu dawania i brania wsparcia w kontaktach.
 
-    P – Potrzeby psychologiczne: Analiza świata wewnętrznego, emocji, schematów myślowych i sposobów radzenia sobie z trudnościami.
+    P – Potrzeby psychologiczne: Analiza świata wewnętrznego, emocji, schematów myślowych i sposobów 
+radzenia sobie z trudnościami.
 
-    F – Potrzeby fizjologiczne: Analiza równowagi ciała, snu, odżywiania, nawodnienia, ruchu i bólu, a także ich wpływu na impuls.
+    F – Potrzeby fizjologiczne: Analiza równowagi ciała, snu, odżywiania, nawodnienia, ruchu i bólu, 
+a także ich wpływu na impuls.
 
-    T – Trauma: Analiza trudnych doświadczeń z przeszłości, radzenia sobie z nadmiernym pobudzeniem lub odrętwieniem oraz technik stabilizacji emocjonalnej.
+    T – Trauma: Analiza trudnych doświadczeń z przeszłości, radzenia sobie z nadmiernym pobudzeniem lub odrętwieniem 
+oraz technik stabilizacji emocjonalnej.
 
     X – Bodźce zewnętrzne: Analiza otoczenia i wyzwalaczy – ludzi, miejsc, pór dnia i rytuałów, które uruchamiają nawyk.
 
