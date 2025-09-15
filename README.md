@@ -1,15 +1,19 @@
 # askaialcowhy
 ask_ai_alco_why.exe: Analiza GUZ (GUI)
 
-to prosta aplikacja desktopowa stworzona w celu generowania spersonalizowanych promptów dla modeli sztucznej inteligencji. Jej celem jest pomoc w autorefleksji nad problemami związanymi z Grupami Ucieczki 
+to prosta aplikacja desktopowa stworzona w celu generowania spersonalizowanych promptów dla modeli sztucznej inteligencji.
+Jej celem jest pomoc w autorefleksji nad problemami związanymi z Grupami Ucieczki 
 w Uzależnienie (GUZ) poprzez analizę konkretnych sytuacji, zwanych w aplikacji "FALĄ".
 
 Aplikacja działa w dwóch etapach:
 
-    Generowanie promptu (działanie offline): Aplikacja GUI działa lokalnie na Twoim komputerze. Użytkownik opisuje w kilku zdaniach sytuację, która wywołała napięcie lub impuls sięgnięcia po substancję, 
+    Generowanie promptu (działanie offline): Aplikacja GUI działa lokalnie na Twoim komputerze. Użytkownik opisuje 
+w kilku zdaniach sytuację, która wywołała napięcie lub impuls sięgnięcia po substancję, 
 a następnie wybiera jedną z pięciu zdefiniowanych grup, które najlepiej opisują naturę problemu.
 
-    Analiza przez AI (wymaga internetu): Aplikacja łączy wprowadzoną "FALĘ" z odpowiednim protokołem, tworząc gotowy do skopiowania prompt. Ten prompt musi zostać wklejony do czatu z AI (np. Google Gemini, ChatGPT, Claude), co wymaga aktywnego połączenia z internetem.
+    Analiza przez AI (wymaga internetu): Aplikacja łączy wprowadzoną "FALĘ" z odpowiednim protokołem, tworząc gotowy
+ do skopiowania prompt. Ten prompt musi zostać wklejony do czatu z AI (np. Google Gemini, ChatGPT, Claude), 
+co wymaga aktywnego połączenia z internetem.
 
 
 Aplikacja oferuje pięć predefiniowanych protokołów analizy, z których każdy skupia się na innej płaszczyźnie problemu:
